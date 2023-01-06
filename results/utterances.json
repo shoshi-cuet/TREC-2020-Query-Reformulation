@@ -1,0 +1,1780 @@
+{
+    "81": [
+        {
+            "0": {
+                "g5 rewritten utterance": "How do you know when your garage door opener is going bad?",
+                "manual rewritten utterance": "How do you know when your garage door opener is going bad?",
+                "raw utterance": "How do you know when your garage door opener is going bad?",
+                "trec auto rewritten utterance": "How do you know when your garage door opener is going bad?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Now the garage door opener stopped working. Why?",
+                "manual rewritten utterance": "Now my garage door opener stopped working. Why?",
+                "raw utterance": "Now it stopped working. Why?",
+                "trec auto rewritten utterance": "Why did garage door opener stop working?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "How much does it cost for someone to fix a garage door opener?",
+                "manual rewritten utterance": "How much does it cost for someone to repair a garage door opener?",
+                "raw utterance": "How much does it cost for someone to fix it?",
+                "trec auto rewritten utterance": "How much does garage door opener cost for someone to fix?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How about replacing the garage door opener instead?",
+                "manual rewritten utterance": "How much does it cost to replace a garage door opener?",
+                "raw utterance": "How about replacing it instead?",
+                "trec auto rewritten utterance": "How about replacing garage door opener instead?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "How do I choose a new garage door opener?",
+                "manual rewritten utterance": "How do I choose a new garage door opener?",
+                "raw utterance": "How do I choose a new one?",
+                "trec auto rewritten utterance": "How do I choose a new garage door opener?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What does a smart garage door opener do?",
+                "manual rewritten utterance": "What does a smart garage door opener do?",
+                "raw utterance": "What does a smart one do?",
+                "trec auto rewritten utterance": "What does a smart garage door opener do?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What's important for me to know about garage door openers safety?",
+                "manual rewritten utterance": "What's important for me to know about the safety of smart garage door openers?",
+                "raw utterance": "What's important for me to know about their safety?",
+                "trec auto rewritten utterance": "What's important for me to know about smart garage door opener safety?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "How could a garage door opener be hacked?",
+                "manual rewritten utterance": "How could smart garage door openers be hacked?",
+                "raw utterance": "How could they be hacked?",
+                "trec auto rewritten utterance": "How could a smart garage door opener be hacked?"
+            }
+        }
+    ],
+    "82": [
+        {
+            "0": {
+                "g5 rewritten utterance": "I would like to learn about GMO Food labeling.",
+                "manual rewritten utterance": "I would like to learn about GMO Food labeling.",
+                "raw utterance": "I would like to learn about GMO Food labeling.",
+                "trec auto rewritten utterance": "I would like to learn about GMO Food labeling."
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What are the pros and cons of GMO Food labeling?",
+                "manual rewritten utterance": "What are the pros and cons of GMO food labeling?",
+                "raw utterance": "What are the pros and cons?",
+                "trec auto rewritten utterance": "What are the pros and cons of GMO Food labeling?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "And what about the cons of GMO Food labeling?",
+                "manual rewritten utterance": "What are the cons of GMO food labeling?",
+                "raw utterance": "And what about the cons?",
+                "trec auto rewritten utterance": "What about the GMO Food labeling pros and cons?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What are the EU rules for GMO Food labeling?",
+                "manual rewritten utterance": "What are the GMO food labeling rules in the EU?",
+                "raw utterance": "What are the EU rules?",
+                "trec auto rewritten utterance": "What are the EU rules on GMO food labeling?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Tell me more about traceability tools for GMO Food labeling.",
+                "manual rewritten utterance": "Tell me about traceability tools for GMO foods in the EU.",
+                "raw utterance": "Tell me more about traceability tools.",
+                "trec auto rewritten utterance": "Tell me more about traceability tools."
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What is the role of Co - Extra in GMO Food labeling?",
+                "manual rewritten utterance": "What is the role of Co-Extra in GMO food traceability in the EU?",
+                "raw utterance": "What is the role of Co-Extra?",
+                "trec auto rewritten utterance": "What is the role of Co-Extra in GMO Food labeling?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "How is testing done for contamination of GMO Food?",
+                "manual rewritten utterance": "How is food tested for GMO contamination?",
+                "raw utterance": "How is testing done for contamination?",
+                "trec auto rewritten utterance": "How is testing done for GMO contamination?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What's the difference between the European and US approaches to GMO Food labeling?",
+                "manual rewritten utterance": "What's the difference between the European Union and United States approaches to testing for GMO food contamination?",
+                "raw utterance": "What's the difference between the European and US approaches?",
+                "trec auto rewritten utterance": "What's the difference between the European and US approaches to GMO food labeling?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "How does the DNA - based method work?",
+                "manual rewritten utterance": "How does the DNA-based method work for testing GMO contamination.",
+                "raw utterance": "How does the DNA-based method work?",
+                "trec auto rewritten utterance": "How does the DNA-based method work?"
+            }
+        },
+        {
+            "9": {
+                "g5 rewritten utterance": "How could Co - Extra improve the DNA - based method?",
+                "manual rewritten utterance": "How could Co-Extra improve DNA-based testing for GMO contamination?",
+                "raw utterance": "How could Co-Extra improve it?",
+                "trec auto rewritten utterance": "How could Co-Extra improve GMO testing?"
+            }
+        }
+    ],
+    "83": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What are some interesting facts about bees?",
+                "manual rewritten utterance": "What are some interesting facts about bees?",
+                "raw utterance": "What are some interesting facts about bees?",
+                "trec auto rewritten utterance": "What are some interesting facts about bees?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Why doesn't bees spoil?",
+                "manual rewritten utterance": "Why doesn't honey spoil?",
+                "raw utterance": "Why doesn't it spoil?",
+                "trec auto rewritten utterance": "Why does bees spoil?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Why are so many dying from bees?",
+                "manual rewritten utterance": "Why are so many bees dying?",
+                "raw utterance": "Why are so many dying?",
+                "trec auto rewritten utterance": "Why are so many bees dying?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What can be done to stop bees dying?",
+                "manual rewritten utterance": "What can be done to stop bees from dying?",
+                "raw utterance": "What can be done to stop it?",
+                "trec auto rewritten utterance": "What can be done to stop bees dying?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What has happened to bees habitat?",
+                "manual rewritten utterance": "What has happened to bee habitat?",
+                "raw utterance": "What has happened to their habitat?",
+                "trec auto rewritten utterance": "What has happened to bees' habitat?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What can I do to help with the problem of bees dying?",
+                "manual rewritten utterance": "What can I do to help provide a habitat for bees?",
+                "raw utterance": "What can I do to help with the problem?",
+                "trec auto rewritten utterance": "What can I do to help with the problem of bees dying?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What is the cause of CCD in bees?",
+                "manual rewritten utterance": "What is the cause of colony collapse disorder?",
+                "raw utterance": "What is the cause of CCD?",
+                "trec auto rewritten utterance": "What is the cause of CCD?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What would happen if bees died out?",
+                "manual rewritten utterance": "What would happen if the bees died out?",
+                "raw utterance": "What would happen if they died out?",
+                "trec auto rewritten utterance": "What would happen if bees died out?"
+            }
+        }
+    ],
+    "84": [
+        {
+            "0": {
+                "g5 rewritten utterance": "How does seed investment work for startups?",
+                "manual rewritten utterance": "How does seed investment work for startups?",
+                "raw utterance": "How does seed investment work for startups?",
+                "trec auto rewritten utterance": "How does seed investment work for startups?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Tell me more about angel rounds for startups.",
+                "manual rewritten utterance": "Tell me more about angel investment rounds.",
+                "raw utterance": "Tell me more about angel rounds.",
+                "trec auto rewritten utterance": "Tell me more about angel rounds."
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "How does angel rounds compare with crowdfunding?",
+                "manual rewritten utterance": "How does an angel investment round compare with crowdfunding?",
+                "raw utterance": "How does it compare with crowdfunding?",
+                "trec auto rewritten utterance": "How does angel rounds compare with crowdfunding?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How much is a typical A series round?",
+                "manual rewritten utterance": "How much is a typical A series investment round?",
+                "raw utterance": "How much is a typical A series round?",
+                "trec auto rewritten utterance": "How much angel is a typical A series round?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What are the risks of investing in an A series round?",
+                "manual rewritten utterance": "What are the risks of investing in startups?",
+                "raw utterance": "What are the risks of investing?",
+                "trec auto rewritten utterance": "What are the risks of investing in angel rounds?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What are the different types of instruments used by VCs for seed investment?",
+                "manual rewritten utterance": "What are the different types of instruments used by Venture Capitalists?",
+                "raw utterance": "What are the different types of instruments used by VCs?",
+                "trec auto rewritten utterance": "What are the different types of angel rounds used by VCs?"
+            }
+        }
+    ],
+    "85": [
+        {
+            "0": {
+                "g5 rewritten utterance": "How much does a used Lamborghini cost?",
+                "manual rewritten utterance": "How much does a Lamborghini cost?",
+                "raw utterance": "How much does a used Lamborghini cost?",
+                "trec auto rewritten utterance": "How much does a used Lamborghini cost?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "How does a Lamborghini compare to a Ferrari?",
+                "manual rewritten utterance": "How does a Lamborghini compare to a Ferrari?",
+                "raw utterance": "How does it compare to a Ferrari?",
+                "trec auto rewritten utterance": "How does a Lamborghini compare to a Ferrari?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What about for a pimped - out food truck?",
+                "manual rewritten utterance": "Interesting. How much does a pimped-out food truck cost?",
+                "raw utterance": "Interesting. What about for a pimped-out food truck?",
+                "trec auto rewritten utterance": "What about for a pimped-out food truck?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What licenses and permits are needed for a Lamborghini?",
+                "manual rewritten utterance": "What licenses and permits are needed for a food truck?",
+                "raw utterance": "What licenses and permits are needed?",
+                "trec auto rewritten utterance": "What licenses and permits are needed for a pimped-out food truck?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What makes a good location for a pimped out food truck?",
+                "manual rewritten utterance": "What makes a good food truck location?",
+                "raw utterance": "What makes a good location?",
+                "trec auto rewritten utterance": "What makes a good food truck location?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What is a typical day like for a pimped out food truck?",
+                "manual rewritten utterance": "What is a typical day like running a food truck?",
+                "raw utterance": "What is a typical day like?",
+                "trec auto rewritten utterance": "What is a typical day like in Lamborghini?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "How can I run a Lamborghini successfully?",
+                "manual rewritten utterance": "How can I run a successful food truck?",
+                "raw utterance": "How can I run it successfully?",
+                "trec auto rewritten utterance": "How can I run Lamborghini food truck successfully?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What are some good examples to learn from?",
+                "manual rewritten utterance": "What are some good examples of successful food trucks to learn from?",
+                "raw utterance": "What are some good examples to learn from?",
+                "trec auto rewritten utterance": "What are some good examples of Lamborghini food trucks to learn from?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "Besides inventive flavors, what made a Lamborghini successful?",
+                "manual rewritten utterance": "Besides inventive flavors, what made Kogi successful?",
+                "raw utterance": "Besides inventive flavors, what made it successful?",
+                "trec auto rewritten utterance": "Besides inventive flavors, what made Lamborghini successful?"
+            }
+        }
+    ],
+    "86": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What is the climate like in Utah?",
+                "manual rewritten utterance": "What is the climate like in Utah?",
+                "raw utterance": "What is the climate like in Utah?",
+                "trec auto rewritten utterance": "What is the climate like in Utah?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "How does Salt Lake City differ from Utah?",
+                "manual rewritten utterance": "How does the climate of Salt Lake City differ from Utah overall?",
+                "raw utterance": "How does Salt Lake City differ?",
+                "trec auto rewritten utterance": "How does Salt Lake City differ from Utah?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What is Salt Lake City's main economic activity?",
+                "manual rewritten utterance": "What is the main economic activity of Salt Lake City?",
+                "raw utterance": "What is its main economic activity?",
+                "trec auto rewritten utterance": "What is Salt Lake City's main economic activity?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What was the impact of the 2002 games in Salt Lake City?",
+                "manual rewritten utterance": "What was the impact of the 2002 olympic winter games on the economy of Salt Lake City?",
+                "raw utterance": "What was the impact of the 2002 games?",
+                "trec auto rewritten utterance": "What was the impact of the 2002 games in Salt Lake City?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What were important ski locations used in Salt Lake City?",
+                "manual rewritten utterance": "What were important ski locations used in the 2002 olympic winter games?",
+                "raw utterance": "What were important ski locations used?",
+                "trec auto rewritten utterance": "What were important ski locations in Salt Lake City used?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What are the important non - ski events that happen in Salt Lake City?",
+                "manual rewritten utterance": "What are the important non-ski events that happen in Salt Lake City?",
+                "raw utterance": "What are the important non-ski events that happen in the city?",
+                "trec auto rewritten utterance": "What are the important non-ski events that happen in the city of Salt Lake?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What are some popular non - winter things to do in Salt Lake City?",
+                "manual rewritten utterance": "What are some popular non-winter things to do in the Salt Lake City area?",
+                "raw utterance": "What about some popular non-winter things to do in the area?",
+                "trec auto rewritten utterance": "What about some popular non-winter things to do in the Salt Lake City area?"
+            }
+        }
+    ],
+    "87": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What are the different types of orange trees?",
+                "manual rewritten utterance": "What are the different types of orange trees?",
+                "raw utterance": "What are the different types of orange trees?",
+                "trec auto rewritten utterance": "What are the different types of orange trees?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "How can you tell the different types of orange trees apart?",
+                "manual rewritten utterance": "How can you tell different types of orange trees apart?",
+                "raw utterance": "How can you tell them apart?",
+                "trec auto rewritten utterance": "How can you tell orange trees apart?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What type of orange tree has thorns?",
+                "manual rewritten utterance": "What type of orange tree has thorns?",
+                "raw utterance": "What type has thorns?",
+                "trec auto rewritten utterance": "What type of orange tree has thorns?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "Where do the thorns of orange trees originally come from?",
+                "manual rewritten utterance": "Where do orange trees originally come from?",
+                "raw utterance": "Where do they originally come from?",
+                "trec auto rewritten utterance": "Where do orange trees originally come from?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Tell me about the Hamlin variety of orange trees.",
+                "manual rewritten utterance": "Tell me about the Hamlin orange variety.",
+                "raw utterance": "Tell me about the Hamlin variety.",
+                "trec auto rewritten utterance": "Tell me about the Hamlin variety."
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "Why did Hamlin replace PB?",
+                "manual rewritten utterance": "Why did the Hamlin orange replace the Parson Brown variety?",
+                "raw utterance": "Why did it replace PB?",
+                "trec auto rewritten utterance": "Why did the Hamlin variety replace PB?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What are the different types of navels in orange trees?",
+                "manual rewritten utterance": "What are the different types of navel oranges?",
+                "raw utterance": "What are the different types of navels?",
+                "trec auto rewritten utterance": "What are the different types of navels?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Which of the navels is the most delicious?",
+                "manual rewritten utterance": "Which type of navel orange is the most delicious?",
+                "raw utterance": "Which is the most delicious?",
+                "trec auto rewritten utterance": "Which is the most delicious orange?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "How do navels compare with blood oranges?",
+                "manual rewritten utterance": "How do cara cara oranges compare with blood oranges?",
+                "raw utterance": "How do they compare with blood oranges?",
+                "trec auto rewritten utterance": "How do orange trees compare with blood oranges?"
+            }
+        }
+    ],
+    "88": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Can I have some information on the labor systems of the Ottoman Empire?",
+                "manual rewritten utterance": "Can I have some information on the labor systems of the Ottoman Empire?",
+                "raw utterance": "Can I have some information on the labor systems of the Ottoman Empire?",
+                "trec auto rewritten utterance": "Can I have some information on the labor systems of the Ottoman Empire?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What was the role of slavery in the Ottoman Empire?",
+                "manual rewritten utterance": "What was the role of slavery in the labor system of the Ottoman Empire?",
+                "raw utterance": "What was the role of slavery?",
+                "trec auto rewritten utterance": "What was the role of slavery in the Ottoman Empire?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "How did the labor systems of the Ottoman Empire govern?",
+                "manual rewritten utterance": "How did the Ottoman Empire govern?",
+                "raw utterance": "How did it govern?",
+                "trec auto rewritten utterance": "How did it govern?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "Why was slavery important in the Ottoman Empire?",
+                "manual rewritten utterance": "Why was the Ottoman Empire important?",
+                "raw utterance": "Why was it important?",
+                "trec auto rewritten utterance": "Why was it important?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What was the culture like in the Ottoman Empire?",
+                "manual rewritten utterance": "What was the culture like in the Ottoman Empire?",
+                "raw utterance": "What was the culture like?",
+                "trec auto rewritten utterance": "What was the culture like in the Ottoman Empire?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What was the role of storytellers in the Ottoman Empire?",
+                "manual rewritten utterance": "What was the role of storytellers in the culture of the Ottoman Empire?",
+                "raw utterance": "What was the role of storytellers?",
+                "trec auto rewritten utterance": "What was the role of storytellers in Ottoman history?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What were popular stories about the Ottoman Empire?",
+                "manual rewritten utterance": "What were popular stories told by meddahs in the Ottoman Empire?",
+                "raw utterance": "What were popular stories?",
+                "trec auto rewritten utterance": "What were popular stories in the Ottoman Empire?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What was the importance of the millet in the Ottoman Empire?",
+                "manual rewritten utterance": "What was the importance of the confessional millet system to the Ottoman Empire?",
+                "raw utterance": "What was the importance of the millet?",
+                "trec auto rewritten utterance": "What was the importance of the millet?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "Why did the British continue to use the millet?",
+                "manual rewritten utterance": "Why did the British continue the confessional millet system from the Ottoman Empire?",
+                "raw utterance": "Why did the British continue it?",
+                "trec auto rewritten utterance": "Why did the British continue slavery?"
+            }
+        },
+        {
+            "9": {
+                "g5 rewritten utterance": "What is the millet's historical importance in developing national identities?",
+                "manual rewritten utterance": "What is the historical importance of the confessional millet system in the development of national identities?",
+                "raw utterance": "What is its historical importance in developing national identities?",
+                "trec auto rewritten utterance": "What is the importance of the millet in developing national identities?"
+            }
+        }
+    ],
+    "89": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What is the relationship between predator and prey?",
+                "manual rewritten utterance": "What is the relationship between predator and prey?",
+                "raw utterance": "What is the relationship between predator and prey?",
+                "trec auto rewritten utterance": "What is the relationship between predator and prey?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What do predator plants eat?",
+                "manual rewritten utterance": "What do predator plants eat?",
+                "raw utterance": "What do predator plants eat?",
+                "trec auto rewritten utterance": "What do predator plants eat?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What about Venus flytraps in particular?",
+                "manual rewritten utterance": "What do Venus flytraps eat?",
+                "raw utterance": "What about Venus flytraps in particular?",
+                "trec auto rewritten utterance": "What about Venus flytraps in particular?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "Where is Venus flytraps native to?",
+                "manual rewritten utterance": "Where is the Venus flytrap native to?",
+                "raw utterance": "Where is it native to?",
+                "trec auto rewritten utterance": "Where is Venus flytraps native to?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "How do Venus flytraps attract and catch their prey?",
+                "manual rewritten utterance": "How do Venus flytraps attract and catch their prey?",
+                "raw utterance": "How do they attract and catch their prey?",
+                "trec auto rewritten utterance": "How do Venus flytraps attract and catch their prey?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "Other than Venus flytraps, what are other similar plants from its native area?",
+                "manual rewritten utterance": "What other carnivorous plants are native to North and South Carolina?",
+                "raw utterance": "What are other similar plants from its native area?",
+                "trec auto rewritten utterance": "What are other similar plants from Venus flytraps native area?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "How do populations of predators and prey relate?",
+                "manual rewritten utterance": "How do populations of predators and prey relate?",
+                "raw utterance": "How do populations of predators and prey relate?",
+                "trec auto rewritten utterance": "How do populations of predators and prey relate to Venus flytraps?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Why would the roles of predators and prey reverse?",
+                "manual rewritten utterance": "Why would the roles of predator and prey reverse?",
+                "raw utterance": "Why would the roles reverse?",
+                "trec auto rewritten utterance": "Why would the roles reverse in Venus flytraps?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "How does the relationship between predators and prey influence biodiversity?",
+                "manual rewritten utterance": "How do predators and prey influence biodiversity?",
+                "raw utterance": "How does the relationship influence biodiversity?",
+                "trec auto rewritten utterance": "How does the relationship influence biodiversity?"
+            }
+        },
+        {
+            "9": {
+                "g5 rewritten utterance": "What are examples of Venus flytraps?",
+                "manual rewritten utterance": "What are examples of apex predators?",
+                "raw utterance": "What are examples of these predators?",
+                "trec auto rewritten utterance": "What are examples of predator plants?"
+            }
+        },
+        {
+            "10": {
+                "g5 rewritten utterance": "Why would humans be considered a predator?",
+                "manual rewritten utterance": "Why would humans be considered apex predators?",
+                "raw utterance": "Why would humans be considered one?",
+                "trec auto rewritten utterance": "Why would humans be considered one predator?"
+            }
+        }
+    ],
+    "90": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Which is the biggest commercial plane?",
+                "manual rewritten utterance": "Which is the biggest commercial plane?",
+                "raw utterance": "Which is the biggest commercial plane?",
+                "trec auto rewritten utterance": "Which is the biggest commercial plane?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What are the operational costs of the biggest commercial plane?",
+                "manual rewritten utterance": "What are the operational costs of the Airbus A380?",
+                "raw utterance": "What are its operational costs?",
+                "trec auto rewritten utterance": "What are the operational costs of a commercial plane?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "How does the fuel consumption of the biggest commercial plane compare to its competitors?",
+                "manual rewritten utterance": "How does the Airbus A380 fuel consumption compare to its competitors?",
+                "raw utterance": "How does its fuel consumption compare to its competitors?",
+                "trec auto rewritten utterance": "How does the Boeing 737 fuel consumption compare to its competitors?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How do the freighter versions of the planes compare to each other?",
+                "manual rewritten utterance": "How do the freighter versions of the Airbus A380 and Boeing 747 compare to each other?",
+                "raw utterance": "How do the freighter versions compare to each other?",
+                "trec auto rewritten utterance": "How do the freighter versions of the Airbus jet compare to each other?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Why did the A380 stop being produced?",
+                "manual rewritten utterance": "Why did the Airbus A380 stop being produced?",
+                "raw utterance": "Why did the A380 stop being produced?",
+                "trec auto rewritten utterance": "Why did the A380 stop being produced?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What was Boeing's response to compete with the A380?",
+                "manual rewritten utterance": "What was Boeing's response to compete with the Airbus A380?",
+                "raw utterance": "What was Boeing's response to compete with it?",
+                "trec auto rewritten utterance": "What was Boeing's response to compete with the A380?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What is the newest version of the A380 and what is better about it?",
+                "manual rewritten utterance": "What is the newest version of the Boeing 777 and what is better about it?",
+                "raw utterance": "What is the newest version and what is better about it?",
+                "trec auto rewritten utterance": "What is the newest version of the A380 and what is better about it?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What are the differences between the A380 variants?",
+                "manual rewritten utterance": "What are the differences between the Boeing 777X-8 and 777X-9?",
+                "raw utterance": "What are the differences between the variants?",
+                "trec auto rewritten utterance": "What are the differences between the A380 and the newer version?"
+            }
+        }
+    ],
+    "91": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What is the purpose of GDPR?",
+                "manual rewritten utterance": "What is the purpose of the General Data Protection Regulation (GDPR)?",
+                "raw utterance": "What is the purpose of GDPR?",
+                "trec auto rewritten utterance": "What is the purpose of GDPR?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What is different about GDPR compared to previous legislation?",
+                "manual rewritten utterance": "What is different between General Data Protection Regulation (GDPR) and European Union (EU) Data Protection Directive 95/46/EC?",
+                "raw utterance": "What is different compared to previous legislation?",
+                "trec auto rewritten utterance": "What is different compared to GDPR legislation?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What are the privacy implications of GDPR?",
+                "manual rewritten utterance": "What are the privacy implications of social networks and cloud computing?",
+                "raw utterance": "What are the privacy implications of those technologies?",
+                "trec auto rewritten utterance": "What are the privacy implications of GDPR technologies?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What is the full range of personal data covered by GDPR?",
+                "manual rewritten utterance": "Oh, Internet Protocol (IP) addresses are considered Personally Identifying Information (PII)? What is the full range of personal data defined in the General Data Protection Regulation (GDPR)?",
+                "raw utterance": "Oh, IP addresses are considered PII? What is the full range of personal data?",
+                "trec auto rewritten utterance": "What is the full range of personal data in GDPR?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "How do big companies adapt to GDPR?",
+                "manual rewritten utterance": "How do big companies in the United States (US) adapt to the General Data Protection Regulation (GDPR)?",
+                "raw utterance": "How do big companies adapt to GDPR?",
+                "trec auto rewritten utterance": "How do big companies adapt to GDPR?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "OK. Tell me about the privacy issues in social networks.",
+                "manual rewritten utterance": "OK. Tell me about the privacy issues in social networks.",
+                "raw utterance": "OK. Tell me about the privacy issues in social networks.",
+                "trec auto rewritten utterance": "Tell me about the privacy issues in social networks."
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What do companies get in return for their privacy under GDPR?",
+                "manual rewritten utterance": "What do users of social networks get in return for by giving up their privacy?",
+                "raw utterance": "What do they get in return for their privacy?",
+                "trec auto rewritten utterance": "What do social networks get in return for their privacy?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What are the symptoms of privacy addiction?",
+                "manual rewritten utterance": "What are the symptoms of social network addiction?",
+                "raw utterance": "What are the symptoms of that addiction?",
+                "trec auto rewritten utterance": "What are the symptoms of that addiction?"
+            }
+        }
+    ],
+    "92": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Do shoulder braces help recover from an injury?",
+                "manual rewritten utterance": "Do shoulder braces help recover from an injury?",
+                "raw utterance": "Do shoulder braces help recover from an injury?",
+                "trec auto rewritten utterance": "Do shoulder braces help recover from an injury?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Tell me more about some exercises that could help with shoulder braces.",
+                "manual rewritten utterance": "Tell me more about some shoulder exercises that could help recovery from an injury.",
+                "raw utterance": "Tell me more about some exercises that could help.",
+                "trec auto rewritten utterance": "Tell me more about some exercises that could help shoulder braces recover from an injury."
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What are some other exercises that could help with shoulder braces?",
+                "manual rewritten utterance": "What are other exercises besides Pendulum circles for shoulder injuries?",
+                "raw utterance": "What are some others?",
+                "trec auto rewritten utterance": "What are some other exercises that could help shoulder braces recover from an injury?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How do I know if the shoulder injury is serious?",
+                "manual rewritten utterance": "How do I know if my shoulder pain is serious?",
+                "raw utterance": "How do I know if it's serious?",
+                "trec auto rewritten utterance": "How do I know if shoulder braces are serious?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "When should you consider surgery for an injury?",
+                "manual rewritten utterance": "When should you consider shoulder surgery?",
+                "raw utterance": "When should you consider surgery?",
+                "trec auto rewritten utterance": "When should you consider surgery?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What are other ways to treat the pain of a shoulder injury other than surgery?",
+                "manual rewritten utterance": "That seems extreme. What are other ways to treat shoulder pain?",
+                "raw utterance": "That seems extreme. What are other ways to treat the pain?",
+                "trec auto rewritten utterance": "What are other ways to treat the shoulder pain?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "How do I stop the shoulder pain from hurting at my desk?",
+                "manual rewritten utterance": "How do I stop my shoulder from hurting at my desk?",
+                "raw utterance": "How do I stop it from hurting at my desk?",
+                "trec auto rewritten utterance": "How do I stop shoulder pain from hurting at my desk?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What are the benefits of a standing shoulder brace?",
+                "manual rewritten utterance": "What are the benefits of a standing desk for shoulder pain?",
+                "raw utterance": "What are the benefits of a standing one?",
+                "trec auto rewritten utterance": "What are the benefits of a standing shoulder?"
+            }
+        }
+    ],
+    "93": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Tell me about purchasing a Burger King franchise.",
+                "manual rewritten utterance": "Tell me about purchasing a Burger King franchise.",
+                "raw utterance": "Tell me about purchasing a Burger King franchise.",
+                "trec auto rewritten utterance": "Tell me about purchasing a Burger King franchise."
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "No, not information about Burger King's acquisition. I want to know how to open a franchise.",
+                "manual rewritten utterance": "No, not information about Burger King's acquisition. I want to know how to open a Burger King franchise.",
+                "raw utterance": "No, not information about its acquisition. I want to know how to open a franchise.",
+                "trec auto rewritten utterance": "I want to know how to open a Burger King franchise."
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Is there any financial support for the fee for opening a Burger King franchise?",
+                "manual rewritten utterance": "Is there any financial support for the initial franchise fee of a Burger King restaurant franchise?",
+                "raw utterance": "Is there any financial support for the fee?",
+                "trec auto rewritten utterance": "Is there any financial support for the Burger King franchise fee?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How much does an owner typically make for a Burger King franchise?",
+                "manual rewritten utterance": "How much does a Burger King franchise owner typically make?",
+                "raw utterance": "How much does an owner typically make?",
+                "trec auto rewritten utterance": "How much does an owner typically make in Burger King?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Is it better to be a franchise or independent?",
+                "manual rewritten utterance": "Is it better to be a Burger King franchisee or an independent restaurant owner?",
+                "raw utterance": "Is it better to be a franchise or independent?",
+                "trec auto rewritten utterance": "Is Burger King better to be a franchise or independent?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What support does Burger King provide?",
+                "manual rewritten utterance": "What support does the franchise provide?",
+                "raw utterance": "What support does it provide?",
+                "trec auto rewritten utterance": "What support does Burger King provide?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What is the process to open a Burger King franchise?",
+                "manual rewritten utterance": "OK let's do it. What is the process of buying a Burger King franchise?",
+                "raw utterance": "OK let's do it. What is the process?",
+                "trec auto rewritten utterance": "What is the process of Burger King franchise or independent?"
+            }
+        }
+    ],
+    "94": [
+        {
+            "0": {
+                "g5 rewritten utterance": "How did snowboarding begin?",
+                "manual rewritten utterance": "How did snowboarding begin?",
+                "raw utterance": "How did snowboarding begin?",
+                "trec auto rewritten utterance": "How did snowboarding begin?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Who were the winners of the snowboarding competition?",
+                "manual rewritten utterance": "Interesting. That's later than I expected. Who were the winners of snowboarding events in the 1998 Winter Olympics?",
+                "raw utterance": "Interesting. That's later than I expected. Who were the winners?",
+                "trec auto rewritten utterance": "Who were the winners of the snowboarding contest?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What are strap - in bindings?",
+                "manual rewritten utterance": "What are strap-in snowboard bindings?",
+                "raw utterance": "What are strap-in bindings?",
+                "trec auto rewritten utterance": "What are strap-in bindings?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What's an alternative to strap - in binding style?",
+                "manual rewritten utterance": "What's an alternative to the strap-in binding style for snowboarding?",
+                "raw utterance": "What's an alternative to this binding style?",
+                "trec auto rewritten utterance": "What's an alternative to this binding style?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What else do I need for my first time snowboarding besides strap - in bindings?",
+                "manual rewritten utterance": "What else besides bindings do I need for my first time snowboarding?",
+                "raw utterance": "What else do I need for my first time?",
+                "trec auto rewritten utterance": "What else do I need for my first time snowboarding?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "How can I teach myself to get started with snowboarding?",
+                "manual rewritten utterance": "How can I teach myself to get started snowboarding?",
+                "raw utterance": "How can I teach myself to get started?",
+                "trec auto rewritten utterance": "How can I teach myself to get started in snowboarding?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What are the best slopes in Seattle for snowboarding?",
+                "manual rewritten utterance": "What are the best snowboarding slopes for beginners around Seattle?",
+                "raw utterance": "What are the best slopes in Seattle?",
+                "trec auto rewritten utterance": "What are the best slopes in Seattle?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Besides snowboarding, what are other things to do at Bachelor?",
+                "manual rewritten utterance": "What are other things to do at Mount Bachelor Ski & Sports",
+                "raw utterance": "What are other things to do at Bachelor?",
+                "trec auto rewritten utterance": "What are other things to do at Bachelor?"
+            }
+        }
+    ],
+    "95": [
+        {
+            "0": {
+                "g5 rewritten utterance": "How are waste and garbage processed?",
+                "manual rewritten utterance": "How are waste and garbage processed?",
+                "raw utterance": "How are waste and garbage processed?",
+                "trec auto rewritten utterance": "How are waste and garbage processed?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What is the impact of burning on the environment?",
+                "manual rewritten utterance": "Interesting. What is the impact of burning waste and garbage on the environment?",
+                "raw utterance": "Interesting. What is the impact of burning on the environment?",
+                "trec auto rewritten utterance": "What is the impact of burning on the environment?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "So you can compact waste ; why does burning slow the waste processing?",
+                "manual rewritten utterance": "Why does waste compaction slow the biodegradation of organic waste?",
+                "raw utterance": "So you can compact them; why does it slow the waste processing?",
+                "trec auto rewritten utterance": "So you can compact waste and garbage; why does the burning of waste slow the waste processing?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How is sewage recycled?",
+                "manual rewritten utterance": "How is sewage recycled?",
+                "raw utterance": "How is sewage recycled?",
+                "trec auto rewritten utterance": "How is sewage recycled?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What are the pros and cons of recycling vs composting?",
+                "manual rewritten utterance": "What are the pros and cons of recycling vs composting garbage?",
+                "raw utterance": "What are the pros and cons of recycling vs composting?",
+                "trec auto rewritten utterance": "What are the pros and cons of recycling vs composting?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "Tell me more about biodegradable plastics.",
+                "manual rewritten utterance": "Tell me more about biodegradable plastics.",
+                "raw utterance": "Tell me more about biodegradable plastics.",
+                "trec auto rewritten utterance": "Tell me more about biodegradable plastics."
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "How are biodegradable plastics made?",
+                "manual rewritten utterance": "How are biodegradable plastics made?",
+                "raw utterance": "How are they made?",
+                "trec auto rewritten utterance": "How are biodegradable plastics made?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "How is corn oil used to make biodegradable plastics?",
+                "manual rewritten utterance": "How is corn oil used to make biodegradable plastics?",
+                "raw utterance": "How is corn oil used?",
+                "trec auto rewritten utterance": "How is corn oil used?"
+            }
+        }
+    ],
+    "96": [
+        {
+            "0": {
+                "g5 rewritten utterance": "How do you make Japanese Yakiniku?",
+                "manual rewritten utterance": "How do you make Japanese Yakiniku ?",
+                "raw utterance": "How do you make Japanese Yakiniku?",
+                "trec auto rewritten utterance": "How do you make Japanese Yakiniku?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Can the sauce be used in other dishes besides Japanese Yakiniku?",
+                "manual rewritten utterance": "Can the sauce for Yakiniku be used in other dishes?",
+                "raw utterance": "Can the sauce be used in other dishes?",
+                "trec auto rewritten utterance": "Can the sauce be used in other dishes?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "What are the best Yakiniku restaurants in Tokyo?",
+                "manual rewritten utterance": "What are the best Yakiniku restaurants in Tokyo?",
+                "raw utterance": "What are the best Yakiniku restaurants in Tokyo?",
+                "trec auto rewritten utterance": "What are the best Yakiniku restaurants in Tokyo?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "Tell me about three star Michelin sushi restaurants in Tokyo.",
+                "manual rewritten utterance": "Tell me about three star Michelin sushi restaurants in Tokyo.",
+                "raw utterance": "Tell me about three star Michelin sushi restaurants there.",
+                "trec auto rewritten utterance": "Tell me about three star Michelin sushi restaurants in Tokyo."
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Oh you need an agent to make reservations in Yakiniku restaurants in Tokyo?",
+                "manual rewritten utterance": "How do I make dinner reservations in Tokyo restaurants?",
+                "raw utterance": "Oh you need an agent to make reservations?",
+                "trec auto rewritten utterance": "Oh you need an agent to make reservations at Michelin sushi restaurants?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "Besides Yakiniku restaurants, tell me about other fun things to do in Tokyo.",
+                "manual rewritten utterance": "Tell me what other fun things there are to do in Tokyo besides eating.",
+                "raw utterance": "Tell me other fun things to do there.",
+                "trec auto rewritten utterance": "Tell me other fun things to do at Michelin sushi restaurants in Tokyo."
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What is the cost of living in Tokyo compared to NYC?",
+                "manual rewritten utterance": "What is the cost of living in Tokyo compared to New York City (NYC)?",
+                "raw utterance": "What is the cost of living there compared to NYC?",
+                "trec auto rewritten utterance": "What is the cost of living in Tokyo compared to NYC?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What is the salary of foreign law firms in Tokyo?",
+                "manual rewritten utterance": "What is the salary of working in foreign law firms in Tokyo?",
+                "raw utterance": "What is the salary of foreign law firms there?",
+                "trec auto rewritten utterance": "What is the salary of foreign law firms in Tokyo?"
+            }
+        }
+    ],
+    "97": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Who are the rivals of the Steelers?",
+                "manual rewritten utterance": "Who are the rivals of the Pittsburgh Steelers?",
+                "raw utterance": "Who are the rivals of the Steelers?",
+                "trec auto rewritten utterance": "Who are the rivals of the Steelers?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What are notable games between Ravens versus Steelers?",
+                "manual rewritten utterance": "What are notable games between Baltimore Ravens versus Pittsburgh Steelers",
+                "raw utterance": "What are notable games between Ravens versus Steelers?",
+                "trec auto rewritten utterance": "What are notable games between Ravens and Steelers?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "And notable moments in Ravens vs Steelers rivalry?",
+                "manual rewritten utterance": "What are notable moments in the Ravens and Steelers rivalry?",
+                "raw utterance": "And notable moments in their rivalry?",
+                "trec auto rewritten utterance": "And notable moments in Ravens' rivalry?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "Tell me more about Polamalu's interception in the Ravens vs Steelers game.",
+                "manual rewritten utterance": "Tell me more about Polamalu's Interception versus Ravens in the 2008 AFC Championship game.",
+                "raw utterance": "Tell me more about that Polamalu's interception.",
+                "trec auto rewritten utterance": "Tell me more about Polamalu's interception."
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "How about Polamalu's pick-6?",
+                "manual rewritten utterance": "How about Polamalu's interception return touchdown?",
+                "raw utterance": "How about his pick-6?",
+                "trec auto rewritten utterance": "How about Polamalu's pick-6?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "Tell me more about Polamalu's immaculate reception.",
+                "manual rewritten utterance": "Tell me more about the immaculate reception of Pittsburgh Steelers.",
+                "raw utterance": "Tell me more about the immaculate reception.",
+                "trec auto rewritten utterance": "Tell me more about the immaculate reception of Polamalu's pick-6."
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What happened to the Ravens stadium?",
+                "manual rewritten utterance": "What happened to Three Rivers stadium?",
+                "raw utterance": "What happened to the stadium?",
+                "trec auto rewritten utterance": "What happened to the Steelers stadium?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Tell me more about Ravens'defense.",
+                "manual rewritten utterance": "Tell me more about Steelers' defense scheme.",
+                "raw utterance": "Tell me more about their defense.",
+                "trec auto rewritten utterance": "Tell me more about the Steelers' defense."
+            }
+        }
+    ],
+    "98": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What is the environmental cost of food production?",
+                "manual rewritten utterance": "What is the environmental cost of food production?",
+                "raw utterance": "What is the environmental cost of food production?",
+                "trec auto rewritten utterance": "What is the environmental cost of food production?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Oh that much water? How is that for meat?",
+                "manual rewritten utterance": "Oh that much water? How much water is used in meat production?",
+                "raw utterance": "Oh that much water? How is that for meat?",
+                "trec auto rewritten utterance": "How is that for meat?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "How much less water is used for vegetables?",
+                "manual rewritten utterance": "How much less water is used to produce vegetables compared to meat?",
+                "raw utterance": "How much less is used for vegetables?",
+                "trec auto rewritten utterance": "How much water is used for vegetables?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What are the benefits of being vegetarian?",
+                "manual rewritten utterance": "What are the benefits of being vegetarian to the environment?",
+                "raw utterance": "What are the benefits of being vegetarian?",
+                "trec auto rewritten utterance": "What are the benefits of being vegetarian?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Are there any health concerns from being vegetarian?",
+                "manual rewritten utterance": "Are there any health concerns of being vegetarian?",
+                "raw utterance": "Are there any health concerns?",
+                "trec auto rewritten utterance": "Are there any health concerns about vegetarianism?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What are vegetarians sources of proteins?",
+                "manual rewritten utterance": "What are the sources of proteins for vegetarians?",
+                "raw utterance": "What are their sources of proteins?",
+                "trec auto rewritten utterance": "What are vegetarian proteins sources of proteins?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "Oh almonds? Can you show me recipes with it?",
+                "manual rewritten utterance": "Can you show me vegetarian recipes with almonds?",
+                "raw utterance": "Oh almonds? Can you show me recipes with it?",
+                "trec auto rewritten utterance": "Can you show me recipes with almonds?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "How do you make the flour for almonds?",
+                "manual rewritten utterance": "How do you make almond flour?",
+                "raw utterance": "How do you make the flour?",
+                "trec auto rewritten utterance": "How do you make the almond flour?"
+            }
+        }
+    ],
+    "99": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What is high blood carbon dioxide?",
+                "manual rewritten utterance": "What is high blood carbon dioxide?",
+                "raw utterance": "What is high blood carbon dioxide?",
+                "trec auto rewritten utterance": "What is high blood carbon dioxide?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What should you do to treat high blood carbon dioxide?",
+                "manual rewritten utterance": "What should you do to treat hypercapnia?",
+                "raw utterance": "What should you do to treat it?",
+                "trec auto rewritten utterance": "What should you do to treat blood carbon dioxide?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "How about high cholesterol?",
+                "manual rewritten utterance": "What are treatments for high cholesterol?",
+                "raw utterance": "How about high cholesterol?",
+                "trec auto rewritten utterance": "How about high cholesterol?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What should I eat to improve high cholesterol?",
+                "manual rewritten utterance": "What should I eat to improve high cholesterol?",
+                "raw utterance": "What should I eat to improve it?",
+                "trec auto rewritten utterance": "What should I eat to improve cholesterol?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What are the differences between high blood carbon dioxide and high cholesterol?",
+                "manual rewritten utterance": "What are the differences between saturated fat and trans fat?",
+                "raw utterance": "What are the differences between the two fats?",
+                "trec auto rewritten utterance": "What are the differences between the two fats?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "So, there are two types of fat. Is the other fat good for you?",
+                "manual rewritten utterance": "What are the benefits of unsaturated fats?",
+                "raw utterance": "So, there are two types.  Is the other fat good for you?",
+                "trec auto rewritten utterance": "Is the other fat good for you?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "Besides fish, what other foods are good sources?",
+                "manual rewritten utterance": "Oh, I like fish. What foods besides fish are good sources of unsaturated fats?",
+                "raw utterance": "Oh I like fish.  What other foods are good sources?",
+                "trec auto rewritten utterance": "What other foods are good sources of fish?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What types of olive oil does olive oil contain?",
+                "manual rewritten utterance": "What types of unsaturated fats does olive oil contain?",
+                "raw utterance": "What types does olive oil contain?",
+                "trec auto rewritten utterance": "What types of olive oil does olive oil contain?"
+            }
+        }
+    ],
+    "100": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What causes my teeth to chip off?",
+                "manual rewritten utterance": "What causes my teeth to chip off?",
+                "raw utterance": "What causes my teeth to chip off?",
+                "trec auto rewritten utterance": "What causes my teeth to chip off?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Oh, what can someone do to fix my teeth chipping off?",
+                "manual rewritten utterance": "Oh, what can dentists do to fix a chipped tooth?",
+                "raw utterance": "Oh, what can they do to fix it?",
+                "trec auto rewritten utterance": "What can teeth chip off?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "I have a larger chip off of my teeth, how do the options different?",
+                "manual rewritten utterance": "What are the differences between dental crowns and veneers?",
+                "raw utterance": "I have a larger chip, how do the options different?",
+                "trec auto rewritten utterance": "I have a larger chip, how do the options different in my teeth?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What about using an implant to fix a chip?",
+                "manual rewritten utterance": "How does an implant compare to a crown?",
+                "raw utterance": "A crown sounds better. What about using an implant?",
+                "trec auto rewritten utterance": "What about using an implant?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Which one is more expensive to fix a chip?",
+                "manual rewritten utterance": "Which one of dental implants or crowns is more expensive?",
+                "raw utterance": "Which one is more expensive?",
+                "trec auto rewritten utterance": "Which one is more expensive?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What is the coverage of the crown in insurance for chipped teeth?",
+                "manual rewritten utterance": "What is the coverage of the crown in insurance?",
+                "raw utterance": "What is the coverage of the crown in insurance?",
+                "trec auto rewritten utterance": "What is the coverage of the crown in insurance?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What is the coverage of the crown in medicare?",
+                "manual rewritten utterance": "What is the coverage of the crown in medicare?",
+                "raw utterance": "I meant medicare",
+                "trec auto rewritten utterance": "I meant medicare."
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Show me covered dentists in Seattle?",
+                "manual rewritten utterance": "Show me medicare dentists in Seattle",
+                "raw utterance": "Show me covered dentists in Seattle",
+                "trec auto rewritten utterance": "Show me covered dentists in Seattle in medicare?"
+            }
+        }
+    ],
+    "101": [
+        {
+            "0": {
+                "g5 rewritten utterance": "What is Melania Trump's religion?",
+                "manual rewritten utterance": "What is Melania Trump's religion?",
+                "raw utterance": "What is Melania Trump's religion?",
+                "trec auto rewritten utterance": "What is Melania Trump's religion?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What did Melania Trump do before she was married?",
+                "manual rewritten utterance": "What did Melania Trump do before she was married?",
+                "raw utterance": "What did she do before she was married?",
+                "trec auto rewritten utterance": "What did Melania Trump do before she was married?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Does Melania Trump have children?",
+                "manual rewritten utterance": "Does Melania Trump have children?",
+                "raw utterance": "Does she have children?",
+                "trec auto rewritten utterance": "Does Melania Trump have children?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "How old is Melania Trump?",
+                "manual rewritten utterance": "How old is Barron Trump?",
+                "raw utterance": "How old is he?",
+                "trec auto rewritten utterance": "How old is Melania Trump?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Melania Trump met at the Kit Kat Club? Where is that?",
+                "manual rewritten utterance": "Donald and Melania Trump met at the Kit Kat Club?  Where is the Kit Kat Club?",
+                "raw utterance": "They met at the Kit Kat Club?  Where is that?",
+                "trec auto rewritten utterance": "Where is Melania Trump's Kit Kat Club?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "When did Melania Trump become a model?",
+                "manual rewritten utterance": "When did Melania Trump become a model?",
+                "raw utterance": "When did she become a model?",
+                "trec auto rewritten utterance": "When did Melania Trump become a model?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "Do we pay the First Lady for Melania Trump?",
+                "manual rewritten utterance": "Does the public pay the First Lady of the United States?",
+                "raw utterance": "Do we pay the First Lady?",
+                "trec auto rewritten utterance": "Do we pay the First Lady Melania?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What about Ivanka Trump?",
+                "manual rewritten utterance": "Does the public pay Ivanka Trump?",
+                "raw utterance": "What about Ivanka?",
+                "trec auto rewritten utterance": "What about Ivanka Trump?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "And did Melania Trump have children with Jared?",
+                "manual rewritten utterance": "Does the public pay Jared Kushner?",
+                "raw utterance": "And Jared?",
+                "trec auto rewritten utterance": "And Jared?"
+            }
+        },
+        {
+            "9": {
+                "g5 rewritten utterance": "What does Jared do at the White House?",
+                "manual rewritten utterance": "What does Jared Kushner do at the White House?",
+                "raw utterance": "What does he do at the White House?",
+                "trec auto rewritten utterance": "What does Ivanka Trump do at the White House?"
+            }
+        }
+    ],
+    "102": [
+        {
+            "0": {
+                "g5 rewritten utterance": "When did social security start in the US?",
+                "manual rewritten utterance": "When did social security start in the United States (US)?",
+                "raw utterance": "When did social security start in the US?",
+                "trec auto rewritten utterance": "When did social security start in the US?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Was social security mandatory in the US?",
+                "manual rewritten utterance": "Was social security mandatory?",
+                "raw utterance": "Was it mandatory?",
+                "trec auto rewritten utterance": "Was social security mandatory?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Who received the first check for social security in the US?",
+                "manual rewritten utterance": "Who received the first social security check?",
+                "raw utterance": "Who received the first check?",
+                "trec auto rewritten utterance": "Who received the first check of social security?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "When did the government start borrowing from social security?",
+                "manual rewritten utterance": "When did the government start borrowing from social security?",
+                "raw utterance": "When did the government start borrowing from it?",
+                "trec auto rewritten utterance": "When did the government start borrowing from social security?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "How much is owed on social security in the US?",
+                "manual rewritten utterance": "How much money is owed to social security?",
+                "raw utterance": "How much is owed?",
+                "trec auto rewritten utterance": "How much is owed?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "When will social security run out of money?",
+                "manual rewritten utterance": "When will social security run out of money?",
+                "raw utterance": "When will it run out of money?",
+                "trec auto rewritten utterance": "When will social security run out of money?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "Wow! What will happen when social security runs out?",
+                "manual rewritten utterance": "Wow! What will happen if social security runs out of money?",
+                "raw utterance": "Wow! What will happen?",
+                "trec auto rewritten utterance": "What will happen to social security?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Can social security run out of money?",
+                "manual rewritten utterance": "Can social security be fixed?",
+                "raw utterance": "Can it be fixed?",
+                "trec auto rewritten utterance": "Can social security run out of money?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "How much of an increase is there in social security?",
+                "manual rewritten utterance": "How much of a tax increase will keep social security solvent?",
+                "raw utterance": "How much of an increase?",
+                "trec auto rewritten utterance": "How much of an increase in social security?"
+            }
+        }
+    ],
+    "103": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Why were the Dead such an influential live band?",
+                "manual rewritten utterance": "Why were the Grateful Dead such an influential live band?",
+                "raw utterance": "Why were the Dead such an influential live band?",
+                "trec auto rewritten utterance": "Why were the Dead such an influential live band?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Why did Dead allow live recordings?",
+                "manual rewritten utterance": "Why did the Grateful Dead allow live recordings?",
+                "raw utterance": "Why did they allow live recordings?",
+                "trec auto rewritten utterance": "Why did the Dead allow live recordings?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Did the Dead have a # 1 hit?",
+                "manual rewritten utterance": "Did the Grateful Dead have a number one hit?",
+                "raw utterance": "Did they have a #1 hit?",
+                "trec auto rewritten utterance": "Did the Dead have a #1 hit?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "Who was the leader of the Dead?",
+                "manual rewritten utterance": "Who was the leader of the Grateful Dead?",
+                "raw utterance": "Who was the leader?",
+                "trec auto rewritten utterance": "Who was the leader of the Dead?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "How did the Dead leader lose his finger?",
+                "manual rewritten utterance": "How did Jerry Garcia lose his finger?",
+                "raw utterance": "How did he lose his finger?",
+                "trec auto rewritten utterance": "How did the Dead lose their finger?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What was the Dead's relationship to the Airplane?",
+                "manual rewritten utterance": "What was Jerry Garcia's relationship to Jefferson Airplane?",
+                "raw utterance": "What was his relationship to the Airplane?",
+                "trec auto rewritten utterance": "What was the relationship between the Dead and the Airplane?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "Is Cassidy about Jack Casady?",
+                "manual rewritten utterance": "Is Cassidy about Jack Casady?",
+                "raw utterance": "Is Cassidy about Jack Casady?",
+                "trec auto rewritten utterance": "Is Cassidy about Jack Casady?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Who wrote the song Cassidy about Jack Casady?",
+                "manual rewritten utterance": "Who wrote Cassidy?",
+                "raw utterance": "Who wrote it?",
+                "trec auto rewritten utterance": "Who wrote the Dead's Dead?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "Besides Cassidy about Jack Casady, what else did the Dead write?",
+                "manual rewritten utterance": "What else did John Barlow and Bob Weir write?",
+                "raw utterance": "What else did they write?",
+                "trec auto rewritten utterance": "What else did the Dead write?"
+            }
+        },
+        {
+            "9": {
+                "g5 rewritten utterance": "Why did the Dead break up?",
+                "manual rewritten utterance": "Why did the Grateful Dead break up?",
+                "raw utterance": "Why did the band break up?",
+                "trec auto rewritten utterance": "Why did the Dead break up?"
+            }
+        }
+    ],
+    "104": [
+        {
+            "0": {
+                "g5 rewritten utterance": "Who are some of the well-known Information Retrieval researchers?",
+                "manual rewritten utterance": "Who are some of the well-known Information Retrieval researchers?",
+                "raw utterance": "Who are some of the well-known Information Retrieval researchers?",
+                "trec auto rewritten utterance": "Who are some of the well-known Information Retrieval researchers?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "What did the well - known Information Retrieval researchers work on?",
+                "manual rewritten utterance": "What Information Retrieval research did Bruce Croft work on?",
+                "raw utterance": "What did he work on?",
+                "trec auto rewritten utterance": "What did Information Retrieval researcher Michael R. R. R. work on?"
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Who are some important British ones who worked on Information Retrieval?",
+                "manual rewritten utterance": "Who are some important British Information Retrieval researchers?",
+                "raw utterance": "Who are some important British ones?",
+                "trec auto rewritten utterance": "Who are some important British researchers?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "What did the studies of the well - known Information Retrieval researchers contribute to evaluation?",
+                "manual rewritten utterance": "What did Cyril Cleverdon's studies contribute to the evaluation of Information Retrieval systems?",
+                "raw utterance": "What did his studies contribute to evaluation?",
+                "trec auto rewritten utterance": "What did the Information Retrieval study contribute to evaluation?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "What are some criticisms of the experiments of the well - known Information Retrieval researchers?",
+                "manual rewritten utterance": "What are some criticisms of the Cranfield project experiments?",
+                "raw utterance": "What are some criticisms of the experiments?",
+                "trec auto rewritten utterance": "What are some criticisms of the Information Retrieval experiments?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "How did the criticisms of the experiments influence modern initiatives?",
+                "manual rewritten utterance": "How did the Cranfield Experiments influence modern information retrieval evaluation initiatives?",
+                "raw utterance": "How did they influence modern initiatives?",
+                "trec auto rewritten utterance": "How did the experiments influence modern initiatives?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "What is TREC?",
+                "manual rewritten utterance": "What is TREC for information retrieval research?",
+                "raw utterance": "What is TREC?",
+                "trec auto rewritten utterance": "What is TREC?"
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "What are some recent tasks of the Information Retrieval researchers?",
+                "manual rewritten utterance": "What are some recent TREC tasks?",
+                "raw utterance": "What are some recent tasks?",
+                "trec auto rewritten utterance": "What are some recent tasks in TREC?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "What is e - Discovery?",
+                "manual rewritten utterance": "e-Discovery?  What's that?",
+                "raw utterance": "e-Discovery?  What's that?",
+                "trec auto rewritten utterance": "What's that?"
+            }
+        },
+        {
+            "9": {
+                "g5 rewritten utterance": "What are the important components of a test collection?",
+                "manual rewritten utterance": "What are the important components of an information retrieval test collection?",
+                "raw utterance": "What are the important components of a test collection?",
+                "trec auto rewritten utterance": "What are the important components of a test collection?"
+            }
+        },
+        {
+            "10": {
+                "g5 rewritten utterance": "What are the benchmarks for music?",
+                "manual rewritten utterance": "What about evaluation benchmarks for music information retrieval?",
+                "raw utterance": "What about benchmarks for music?",
+                "trec auto rewritten utterance": "What about benchmarks for music in a test collection?"
+            }
+        },
+        {
+            "11": {
+                "g5 rewritten utterance": "What are important measures for web search engines?",
+                "manual rewritten utterance": "What are important evaluation measures for web search engines?",
+                "raw utterance": "What are important measures for web search engines?",
+                "trec auto rewritten utterance": "What are important measures for web search engines?"
+            }
+        },
+        {
+            "12": {
+                "g5 rewritten utterance": "What are important measures for web search engines?",
+                "manual rewritten utterance": "What are important online evaluation metrics for web search?",
+                "raw utterance": "What about online ones?",
+                "trec auto rewritten utterance": "What are important measures for web search engines?"
+            }
+        }
+    ],
+    "105": [
+        {
+            "0": {
+                "g5 rewritten utterance": "When did the Black Lives Matter campaign begin?",
+                "manual rewritten utterance": "When did the Black Lives Matter campaign begin?",
+                "raw utterance": "When did the Black Lives Matter campaign begin?",
+                "trec auto rewritten utterance": "When did the Black Lives Matter campaign begin?"
+            }
+        },
+        {
+            "1": {
+                "g5 rewritten utterance": "Tell me more about what happened during the Black Lives Matter campaign.",
+                "manual rewritten utterance": "Tell me more about the shooting of Trayvon Martin.",
+                "raw utterance": "Tell me more about what happened.",
+                "trec auto rewritten utterance": "Tell me more about what happened."
+            }
+        },
+        {
+            "2": {
+                "g5 rewritten utterance": "Why was Black Lives Matter acquitted?",
+                "manual rewritten utterance": "Why was George Zimmerman acquitted?",
+                "raw utterance": "Why was he acquitted?",
+                "trec auto rewritten utterance": "Why was the Black Lives Matter campaign acquitted?"
+            }
+        },
+        {
+            "3": {
+                "g5 rewritten utterance": "And how about what happened to Brown?",
+                "manual rewritten utterance": "And how what happened to Michael Brown?",
+                "raw utterance": "And how about what happened to Brown?",
+                "trec auto rewritten utterance": "How about what happened to Brown?"
+            }
+        },
+        {
+            "4": {
+                "g5 rewritten utterance": "Who named the Black Lives Matter movement?",
+                "manual rewritten utterance": "Who named the movement \"Black Lives Matter\"?",
+                "raw utterance": "Who named the movement?",
+                "trec auto rewritten utterance": "Who named the Black Lives Matter movement?"
+            }
+        },
+        {
+            "5": {
+                "g5 rewritten utterance": "What was the US reaction to Black Lives Matter?",
+                "manual rewritten utterance": "What was the US reaction to the Black Lives Matter movement?",
+                "raw utterance": "What was the US reaction to it?",
+                "trec auto rewritten utterance": "What was the US reaction to the Black Lives Matter movement?"
+            }
+        },
+        {
+            "6": {
+                "g5 rewritten utterance": "Tell me more about the movement of the police supporters for Black Lives Matter.",
+                "manual rewritten utterance": "Tell me more about the Blue Lives Matter movement.",
+                "raw utterance": "Tell me more about the movement of the police supporters.",
+                "trec auto rewritten utterance": "Tell me more about the movement of the police supporters of the Black Lives Matter movement."
+            }
+        },
+        {
+            "7": {
+                "g5 rewritten utterance": "Why were the police supporters of Black Lives Matter killed?",
+                "manual rewritten utterance": "Why were Rafael Ramos and Wenjian Liu killed?",
+                "raw utterance": "Why were they killed?",
+                "trec auto rewritten utterance": "Why were the Black Lives Matter movement killed?"
+            }
+        },
+        {
+            "8": {
+                "g5 rewritten utterance": "Besides the police supporters, what else motivates the Black Lives Matter movement?",
+                "manual rewritten utterance": "What else motivates the Black Lives Matter movement?",
+                "raw utterance": "What else motivates the Black Lives Matter movement?",
+                "trec auto rewritten utterance": "What else motivates the Black Lives Matter movement?"
+            }
+        }
+    ]
+}
